@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# node-todo-cicd
-=======
+
 # node-todo-cicd
 
 Run these commands:
@@ -20,4 +18,3 @@ or Run by docker compose
 
 test
 
->>>>>>> 7501d2c (Adding files)
